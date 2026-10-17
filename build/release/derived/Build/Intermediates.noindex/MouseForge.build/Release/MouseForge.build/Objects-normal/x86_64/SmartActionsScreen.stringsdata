@@ -1,0 +1,208 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/SmartActionsScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "1 step",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld steps",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duplicate",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Smart Action",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Smart Action",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Smart Action",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Templates",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Smart Actions run several steps with one click, like “open Notes, wait a second, start a new note, type a heading.”",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start from a Template",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Empty Smart Action",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Icon",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Runs the steps now. Keystrokes go to this window, so switch apps first or use a step that opens one.",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test Run",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "No steps yet. Add one below.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 177
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wait",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "seconds",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seconds",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Runs itself",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "A Smart Action that runs itself stops after a few repeats.",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove step",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 259
+        }
+      }
+    ]
+  },
+  "version": 1
+}

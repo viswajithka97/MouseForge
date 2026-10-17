@@ -1,0 +1,136 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "macOS only applies some permissions after MouseForge restarts. If a switch is on in System Settings but still shows as missing here, relaunch.",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to MouseForge",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "You're all set. Your mouse is ready to customize.",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Two quick permissions and your mouse is ready.",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Already switched on in System Settings but still missing here? That entry belongs to an older build of MouseForge. In System Settings select MouseForge, remove it with “–”, then click Grant Access again.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Good to know",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Relaunch MouseForge",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Settings",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue Later",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Granted",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Grant Access…",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open System Settings",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not in the list?",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "and drag it into the list, or use “+”.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show MouseForge in Finder",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 154
+        }
+      }
+    ]
+  },
+  "version": 1
+}

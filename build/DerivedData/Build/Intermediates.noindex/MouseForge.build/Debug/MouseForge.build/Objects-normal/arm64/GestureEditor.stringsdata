@@ -1,0 +1,24 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/GestureEditor.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Reset to Default",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear All Directions",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}

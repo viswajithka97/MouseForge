@@ -1,0 +1,64 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/EventLogView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%llu events seen",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Event tap active, remapping on",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Event tap active, remapping paused",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Waiting for Accessibility permission",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Event tap failed to start",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click any mouse button or scroll to see events here.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 87
+        }
+      }
+    ]
+  },
+  "version": 1
+}

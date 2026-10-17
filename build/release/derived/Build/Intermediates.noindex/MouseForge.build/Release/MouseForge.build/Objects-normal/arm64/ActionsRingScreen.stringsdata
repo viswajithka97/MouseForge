@@ -1,0 +1,208 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Ring/ActionsRingScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Drag an action onto a slot, drag one slot onto another to swap them, or click a slot to choose its action. Right-click a slot to rename it, change its icon, or save it to My Items.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@'s own keyboard shortcuts. Click one to put it in the selected or first empty slot, or drag it onto a slot.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click an action to put it in the selected or first empty slot.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Actions",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Items",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Actions",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click an item to put it in the selected or first empty slot, or drag it onto a slot. Right-click to edit or delete.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Item…",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Make your own ring items",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Give it a name and an icon, then choose what it does: press a shortcut, run a command in Terminal (like flutter run), run a script, open a link, and more.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "Size",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 177
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear All",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset to Default",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apps with a built-in ring (Safari, Chrome, Finder, VS Code, Cursor, Xcode, Zoom, …) use that one instead. Pick an app in the bar above to see or change its ring.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "No button opens the ring yet.",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 223
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use Hold Back Button",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 252
+        }
+      },
+      {
+        "comment": "",
+        "key": "Slot %lld: %@",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 296
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Item Here…",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Name, Icon & Action…",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save to My Items",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Slot",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 369
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit…",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 381
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 382
+        }
+      }
+    ]
+  },
+  "version": 1
+}

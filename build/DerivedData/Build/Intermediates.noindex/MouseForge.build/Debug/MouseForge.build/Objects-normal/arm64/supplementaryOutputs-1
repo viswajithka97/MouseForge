@@ -1,0 +1,23 @@
+{
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/ActivityLog.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/EventTapEngine.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/TriggerDetector.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.swiftdeps"
+  }
+}

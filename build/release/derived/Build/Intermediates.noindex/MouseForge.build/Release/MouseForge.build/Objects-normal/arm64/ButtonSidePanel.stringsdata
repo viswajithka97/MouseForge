@@ -1,0 +1,88 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ButtonSidePanel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Choose at least one modifier key.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trigger",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "So you can't accidentally lose the ability to click, MouseForge leaves your main buttons alone unless you unlock them.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Left and right click are locked",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unlock…",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trigger",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "While holding",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 151
+        }
+      }
+    ]
+  },
+  "version": 1
+}

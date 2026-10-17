@@ -1,0 +1,40 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ButtonsScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Try your buttons, gestures, and scrolling live",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Illustration",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test Area",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Extra buttons (6 and up) appear here after you press them once; Logitech controls such as the gesture button appear when the mouse is connected.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 110
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,104 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/DevicesScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Logitech",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Mice",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Input Monitoring is needed for Logitech features",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Battery, DPI, SmartShift, and Logitech buttons need to talk to the mouse directly.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Grant Access…",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open System Settings",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Relaunch MouseForge",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Logitech device found. Connect one with a Logi Bolt or Unifying receiver, Bluetooth, or a cable.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "No mouse connected.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Every mouse works with buttons, gestures, the Actions Ring, scrolling, and pointer settings. Extra buttons (6 and up) appear on the Buttons screen after you press them once.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings…",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Easy-Switch channel %lld of %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 89
+        }
+      }
+    ]
+  },
+  "version": 1
+}

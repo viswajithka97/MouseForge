@@ -1,0 +1,30 @@
+{
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/LogitechScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/PointerScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/ScrollingScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.swiftdeps"
+  }
+}

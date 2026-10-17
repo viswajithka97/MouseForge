@@ -1,0 +1,72 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/GesturesScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Gesture button",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Buttons with gestures",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "How gestures feel (all apps)",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Movement threshold",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show a hint when a gesture fires",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep the pointer still while gesturing",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Repeat while moving",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Repeat fires the action again every time you move another threshold's distance, e.g. several Space switches or volume steps in one hold.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 91
+        }
+      }
+    ]
+  },
+  "version": 1
+}

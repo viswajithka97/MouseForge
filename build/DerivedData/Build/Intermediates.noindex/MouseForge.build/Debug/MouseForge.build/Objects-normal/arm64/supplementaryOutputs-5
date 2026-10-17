@@ -1,0 +1,23 @@
+{
+  "/Users/user/Desktop/MouseForge/MouseForge/Profiles/AppWatcher.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ActionChooser.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/MouseIllustration.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.swiftdeps"
+  }
+}

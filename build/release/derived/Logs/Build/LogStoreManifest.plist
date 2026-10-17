@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>0C95BA7F-E2FC-4C45-96D7-0AAB94272341</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C95BA7F-E2FC-4C45-96D7-0AAB94272341.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MouseForge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MouseForge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project MouseForge with scheme MouseForge and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>813952291.46511304</real>
+			<key>timeStoppedRecording</key>
+			<real>813952323.84702301</real>
+			<key>title</key>
+			<string>Building project MouseForge with scheme MouseForge and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>0C95BA7F-E2FC-4C45-96D7-0AAB94272341</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

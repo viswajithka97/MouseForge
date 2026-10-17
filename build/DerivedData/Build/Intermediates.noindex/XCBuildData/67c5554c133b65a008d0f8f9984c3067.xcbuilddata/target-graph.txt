@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'MouseForgeTests' in project 'MouseForge'
+➜ Explicit dependency on target 'MouseForge' in project 'MouseForge'
+Target 'MouseForge' in project 'MouseForge' (no dependencies)

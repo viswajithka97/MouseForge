@@ -1,0 +1,16 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/App/MouseForgeApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "MouseForge",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

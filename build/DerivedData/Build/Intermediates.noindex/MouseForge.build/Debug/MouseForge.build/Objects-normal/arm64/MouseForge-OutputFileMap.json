@@ -1,0 +1,699 @@
+{
+  "" : {
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForge-primary.dia",
+    "emit-module-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForge-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForge-primary-emit-module.dia",
+    "pch" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForge-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForge-primary.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Actions/ActionLibrary.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionLibrary~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Actions/MouseAction.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseAction~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Actions/SystemControls.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SystemControls~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/App/AppState.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppState~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/App/LoginItem.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LoginItem~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/App/MouseForgeApp.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseForgeApp~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Debug/DebugSnapshots.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DebugSnapshots~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Devices/DeviceManager.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DeviceManager~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Devices/IOHIDTransport.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/IOHIDTransport~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/ActivityLog.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActivityLog~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/EventTapEngine.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventTapEngine~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/GestureRecognizer.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureRecognizer~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/InputEventLog.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/InputEventLog~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/RemapConfig.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RemapConfig~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/SyntheticEvents.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SyntheticEvents~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Engine/TriggerDetector.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerDetector~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Logitech/HIDPP.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPP~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Logitech/HIDPPChannel.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPChannel~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Logitech/HIDPPDevice.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/HIDPPDevice~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Logitech/LogitechDevice.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechDevice~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Logitech/LogitechIntegration.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechIntegration~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/ActionConfig.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionConfig~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/AppPresets.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppPresets~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/AppSettings.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSettings~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/GesturePresets.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/KeyCombo.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/KeyCombo~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/ModifierSet.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierSet~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/Profile.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/Ring.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Ring~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/ScrollSettings.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollSettings~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/SmartAction.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/Trigger.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Trigger~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Permissions/PermissionsManager.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PermissionsManager~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Pointer/PointerEngine.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerEngine~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Profiles/AppWatcher.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppWatcher~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Profiles/ProfileManager.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ProfileManager~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Scrolling/ScrollEngine.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollEngine~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Scrolling/ScrollMath.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollMath~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Settings/SettingsStore.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsStore~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/SmartActions/SmartActionRunner.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionRunner~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ActionChooser.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionChooser~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ButtonSidePanel.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonSidePanel~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ButtonsScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ButtonsScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/GestureEditor.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureEditor~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/MouseIllustration.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MouseIllustration~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ShortcutRecorder.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ShortcutRecorder~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/TriggerEditor.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TriggerEditor~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/EventLogView.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/EventLogView~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/GestureHintHUD.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GestureHintHUD~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/MenuBarMenu.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/MenuBarMenu~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/OnboardingView.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Ring/ActionsRingController.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingController~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Ring/ActionsRingScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ActionsRingScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Ring/RingView.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/RingView~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/AppProfilesScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppProfilesScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/AppSelectorBar.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/AppSelectorBar~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/DevicesScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/DevicesScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/GeneralScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneralScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/GesturesScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturesScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/LogitechScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/LogitechScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/ModifierToggles.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ModifierToggles~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/PointerScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/PointerScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/ScrollingScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/ScrollingScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/SmartActionsScreen.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartActionsScreen~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/StatusHUD.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/StatusHUD~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/TestAreaView.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/TestAreaView~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/UI/WindowManager.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/WindowManager~partial.swiftmodule"
+  },
+  "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

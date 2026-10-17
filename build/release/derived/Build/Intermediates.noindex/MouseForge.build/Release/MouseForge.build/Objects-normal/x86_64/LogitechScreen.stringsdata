@@ -1,0 +1,416 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/LogitechScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Device",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Logitech device connected",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect a Logitech mouse with a Logi Bolt or Unifying receiver, Bluetooth, or a USB cable. Its battery, DPI, wheel, and button settings appear here.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "MouseForge needs Input Monitoring permission to talk to Logitech devices (see Devices).",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Device",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connection",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Battery",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notify me when the battery is low",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Supported HID++ features (%lld)",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Protocol",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pointer DPI",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Presets for Cycle DPI",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld DPI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 126
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add the current DPI as a preset",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click to use now. Right-click to remove.",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove Preset",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "DPI",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assign “Cycle DPI” to a button to step through the presets. Default for this mouse: %lld DPI.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scroll Wheel",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wheel mode",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "SmartShift sensitivity",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "High-resolution scrolling",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switches easily",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rarely",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "Easy-Switch",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "This Mac",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Channel %lld",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Let MouseForge handle extra buttons",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 263
+        }
+      },
+      {
+        "comment": "",
+        "key": "Handled by MouseForge",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not assigned",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Configure…",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "Extra Buttons",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "A button is taken over only while some profile gives it an action (set it on the Buttons or Gestures screen). Everything is handed back when MouseForge quits.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "Let MouseForge handle the thumb wheel when needed",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thumb Wheel Settings…",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 289
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thumb Wheel",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Plain horizontal scrolling stays native. Zoom, tabs, volume, brightness, timeline, and custom actions (set per app on the Scrolling screen) use MouseForge.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 295
+        }
+      },
+      {
+        "comment": "",
+        "key": "Haptic feedback",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 302
+        }
+      },
+      {
+        "comment": "",
+        "key": "Intensity",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tick when pointing at Actions Ring slots and on gestures",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 321
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 322
+        }
+      },
+      {
+        "comment": "",
+        "key": "Low",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 312
+        }
+      },
+      {
+        "comment": "",
+        "key": "Medium",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 313
+        }
+      },
+      {
+        "comment": "",
+        "key": "High",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 314
+        }
+      },
+      {
+        "comment": "",
+        "key": "Maximum",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Haptics",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 328
+        }
+      },
+      {
+        "comment": "",
+        "key": "Intensity",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 340
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/TestAreaView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Click, double-click, hold, drag, gesture, or scroll on the pad. Left: what MouseForge did. Right: what an app receives.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "MouseForge isn't intercepting input yet: Accessibility permission is missing, so nothing is remapped. The right column still shows raw events.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remapping is paused (⌃⌥⌘M or the menu), so nothing is remapped.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test Area",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use profile",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Applications",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Test pad",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scroll here too",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 108
+        }
+      }
+    ]
+  },
+  "version": 1
+}

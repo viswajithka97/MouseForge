@@ -1,0 +1,128 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/ScrollingScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@ is also changing your scrolling. Two scroll apps at once make scrolling jumpy or stop it working. Turn off its scrolling features, or quit it.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use custom scrolling in %@",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Smooth scrolling",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reverse scroll direction for mice",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mouse Wheel",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Only notched mouse wheels are changed. Trackpads and Magic Mouse keep macOS's own scrolling.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "While Holding",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hold exactly these keys while scrolling. Turn all keys off to disable a mode.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use a custom thumb wheel in %@",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thumb wheel does",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reverse direction",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Turn left",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Turn right",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thumb Wheel / Horizontal Wheel",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "Works with any horizontal or tilt wheel. Logitech thumb wheels get finer control on the Device screen.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 125
+        }
+      }
+    ]
+  },
+  "version": 1
+}

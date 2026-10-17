@@ -1,0 +1,23 @@
+{
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/GesturePresets.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/GesturePresets.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/Profile.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/Profile.swiftdeps"
+  },
+  "/Users/user/Desktop/MouseForge/MouseForge/Model/SmartAction.swift" : {
+    "const-values" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.swiftconstvalues",
+    "dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.d",
+    "diagnostics" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.dia",
+    "object" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.o",
+    "swift-dependencies" : "/Users/user/Desktop/MouseForge/build/DerivedData/Build/Intermediates.noindex/MouseForge.build/Debug/MouseForge.build/Objects-normal/arm64/SmartAction.swiftdeps"
+  }
+}

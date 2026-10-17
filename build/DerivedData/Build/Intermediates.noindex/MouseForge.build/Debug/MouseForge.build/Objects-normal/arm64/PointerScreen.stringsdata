@@ -1,0 +1,120 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/PointerScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Mice",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pointer settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use macOS settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Custom (MouseForge)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Custom settings apply to mice only, never trackpads, and are undone when you switch back or quit MouseForge.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Off: the pointer moves the same distance for the same hand movement, however fast you move (best for precise work and games). To change how far that is, use your mouse's DPI button or a Logitech DPI setting.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pointer acceleration",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tracking speed",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Slow",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fast",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Presets:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Speed & Acceleration",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tracking speed is the same setting as System Settings ▸ Mouse ▸ Tracking speed, but goes beyond its maximum (3) up to 5. Higher values also mean stronger acceleration; macOS combines the two.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "No mouse connected.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 70
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ShortcutRecorder.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Press a key combination. Esc cancels, Delete clears.",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click to record a shortcut",
+        "location": {
+          "startingColumn": 90,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 33
+        }
+      }
+    ]
+  },
+  "version": 1
+}

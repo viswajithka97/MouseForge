@@ -1,0 +1,32 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/MouseIllustration.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 312
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@: connect a Logitech mouse that has one",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 314
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thumb wheel: click to set it up",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 316
+        }
+      }
+    ]
+  },
+  "version": 1
+}

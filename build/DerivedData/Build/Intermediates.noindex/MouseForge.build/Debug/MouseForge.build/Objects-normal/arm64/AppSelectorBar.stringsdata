@@ -1,0 +1,40 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Settings/AppSelectorBar.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Remove %@ Profile",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add an app profile",
+        "location": {
+          "startingColumn": 15,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Running Apps",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Application…",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 109
+        }
+      }
+    ]
+  },
+  "version": 1
+}

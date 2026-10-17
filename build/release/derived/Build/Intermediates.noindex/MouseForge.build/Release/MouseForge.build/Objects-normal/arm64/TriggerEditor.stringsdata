@@ -1,0 +1,144 @@
+{
+  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/TriggerEditor.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Reset to Default",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to MouseForge's original setting",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove this override and use the All Applications setting",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "No actions match “%@”.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search actions",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear search",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shortcut",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Web address",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://example.com",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing chosen",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Smart Action",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 317
+        }
+      },
+      {
+        "comment": "",
+        "key": "You haven't made any Smart Actions yet.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create…",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 322
+        }
+      },
+      {
+        "comment": "",
+        "key": "Smart Action",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 326
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit…",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 340
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose…",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 334
+        }
+      }
+    ]
+  },
+  "version": 1
+}
