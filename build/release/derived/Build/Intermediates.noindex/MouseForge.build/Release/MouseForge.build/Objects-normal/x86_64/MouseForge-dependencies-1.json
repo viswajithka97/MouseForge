@@ -7,7 +7,7 @@
   {
     "isFramework" : true,
     "moduleName" : "AppKit",
-    "modulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/AppKit-2UFU5UKVXH4BY.swiftmodule"
+    "modulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/AppKit-32OIO87B42IQ4.swiftmodule"
   },
   {
     "isFramework" : true,
@@ -137,12 +137,12 @@
   {
     "isFramework" : true,
     "moduleName" : "SwiftUI",
-    "modulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUI-Y9FU3CCCGIBJ.swiftmodule"
+    "modulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUI-1EE0LG7FVKA5P.swiftmodule"
   },
   {
     "isFramework" : true,
     "moduleName" : "SwiftUICore",
-    "modulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUICore-3MINSNAMP8JGS.swiftmodule"
+    "modulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUICore-6HVW5H1IOMTY.swiftmodule"
   },
   {
     "isFramework" : true,
@@ -211,483 +211,483 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Accessibility-4RM0SBAVDS101SRCIE8QUW909.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Accessibility-CYU6V8KAZ74752LZUVZVIJ67I.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/AppKit-8DFY08B0C5JHTO17X10ZHXYN9.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/AppKit-9D1NNV4ALCJ89ESIZU2RF3HHP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ApplicationServices-CKFCQQCF05DWWGC7DIWPD6JJO.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ApplicationServices-CBQ291U82BAWD4823PVNY6ONW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CFNetwork-4FN5SFVZPGNAVYLKJ1LIPNZTV.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CFNetwork-C9PDPLIJXYEJHJJZ6YN9VBR2I.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CUPS-BM5GY1O1SLRXEJ9YMGZ6706FW.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CUPS-9EXDSWMGV7CNHZ87T7ETTEL0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Carbon.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Carbon-684531YNXB7C4KLKEUE3BVYGC.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Carbon-AO7R2CVK4L112TXKHMI06EIR4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Carbon"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ColorSync-72OM7S3U32BCS79MMNWESFZPE.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ColorSync-4FN94KTCSEEH6SLLFVRROAW47.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreAudio-DOX0NH6LWVB3FNE03J5N3DNAN.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreAudio-DDIUIDIX8V5UMT7TFUH938T27.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreAudioTypes-D10F3KLYFM4BT6UEQZF7H2PPE.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreAudioTypes-COPM7JFNAMITIBFC3AAABBUG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreData-16TDRZYV9LZOV05HZ3T4H6N28.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreData-6LS1FOLLG4A0V1I4EL6D5V0NI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreFoundation-C3CYHTBLJYE949CWISCUV49VN.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreFoundation-9P82QT5URY7QVHZYPNG5GE3D.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreGraphics-AYUGGKD20GEKADA9ZNGSPSM3F.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreGraphics-1DT0ZDS02WBZIYP7FTWW15QNB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreImage-6LL439P3E4TXGYHEHGWV7A7V1.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreImage-BI62JU4OQ7MW2J6FCU2U54PW4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreMedia-34SXNGV20WOIVH1RFUYCLUVWE.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreMedia-ABCH4UBW5CU3FUB281Z0YUIDH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreServices-3OATDTSQX1GVTH5OU4WGAU2RW.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreServices-BUQL4UBU7YTYM4RJ29GNJGB3E.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreText-F23A3LMW1U3YUFGVDZ8BGEAUD.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreText-18CMV2CUL8O9JAWGP5YJP5SDT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreTransferable-13Y90YNG6GLOU2C8POT2FT924.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreTransferable-ZMK9F35WY7ST5BTXGAV2SXKO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreVideo-AIO5515CX2BKOWRFRQKDC06JQ.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/CoreVideo-AOIU05QDBMAVAAPSYNBDZ4RSX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Darwin-2D7DKHULIVEJ7ATHWH00O8YSV.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Darwin-1LRW0UHVU3KJUBTOUXQUQNKB3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/DataDetection-ALLZ26GTQMV23V2OZASX980RE.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/DataDetection-CM5344LJ227X4ARWWMBTIF6I1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-DMH66T99W24WPFFOV6JO0DOLM.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-2K0OTGEOWPE8EQRTJ6G9B35WU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/DiskArbitration-A6P0EXCWRHC9F6XMJEJOYIH88.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/DiskArbitration-9Z6ZI1C1TDA26K9W80XPDVI0H.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Dispatch-E01P4F8WX568AB7OYEJFTJ0D5.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Dispatch-CDQB6UT3Q7PKBL2YOBZ1JFLSD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Foundation-56IT5F6X76KC4YP0QMO91MT6L.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Foundation-9SPSMD46HFAVADWSEGQ69S9DW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/IOKit-D8DXFT0SYL6A884FWF617EWT8.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/IOKit-F2ZSGWSMR5CH4D003DCXFFK3V.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/IOSurface-BT7RP6GRXS7YOKGBDWNQG3WN3.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/IOSurface-DF58JOAG03QOWQ48KBVCI2EFK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ImageIO-9MM0YYXOP75KMDWPRTTOXNAMX.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ImageIO-DSGX4SUA5NJZC5PP97NV6L8AD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/MachO-33HCUU39NGWYQTWBT7Y252KKA.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/MachO-D7YEQ3HN595WLB7TTR9GC1JY7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Metal-29UGXBMYFHL17EBTTGI9V0HYJ.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Metal-MW5QNH1TFWIS01HJKZ4LPIU9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/OSLog-3HXYKE339LBT3JRVAAZA1ZG6E.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/OSLog-11AKPRO8TSZELDGR622WCWOS3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ObjectiveC-CXY64JQG2KIDY7Q8ODJYMAVQZ.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ObjectiveC-6B7KI22MJQ6JR3WFSPRW9A1D4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/OpenGL-C9OQSAWQNJ06BLWHK34EH5ZIE.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/OpenGL-32EZS0YTT407CQSREDCSW6YG2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/QuartzCore-9JLY0ND7KLD1771VL2CGRO57W.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/QuartzCore-2HARDKGC98IAYU0M6AEMLTTH1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Security-CZC35ECIOVZ9BKP9QXQ4JW7KM.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Security-1XXKZ53XRKXANM69KBY5G9SU8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ServiceManagement.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ServiceManagement-64LXI5L6R2Q68CQ2BOD76RXR8.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ServiceManagement-9CZ5WQ3EI409XQG6E9LX73X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ServiceManagement"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Spatial-8N8CVRB8X4H2S24X1PGQTL830.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Spatial-99YNAH3GV18K4AO0VYI5SEHED.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftShims-ESBW1Q6MM7EM3K8QX7L6Z2RA6.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftShims-ATRTHJXQJ81OHEF55C6K5RMO1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUI-DIFSM519ELXA3HN7ETCMYRA75.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUI-7GH16OSKZDO0F0JWT2EC7C0WH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUICore-A2JDIYO2YRNHN2EUX80H3CY4D.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/SwiftUICore-85WZMALOIP7XXLK7KUGV7B2ER.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Symbols-B0POU43544OAH7OQW7H3KGNMD.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/Symbols-6LCQUP3BFKQFHZIE2XGAAC5K1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-C1VDPXS2YU3Q8BHI3Z2AQ2XTI.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-8IX3FZ10JM7OXVMPZZBEYVE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UserNotifications.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/UserNotifications-4WS8DDL2R9E1YIHZYTOU2WSSM.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/UserNotifications-9LETTF0CDX5GNHE2YE2FBKB5M.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UserNotifications"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/XPC-CWUVW69JPIERW3W5VID70L1JF.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/XPC-B3SH8RSBKZLB2QZNITX0JK8L6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-EQ2JUIAX4GBQNZZMXZ7W2VM0C.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-ENEC76QIP7K9Y9X1YTUZL31OD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_float-EQDCC2ZITLM1L4AEACY5YECOE.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_float-2R1T6T7KJDQKG81LFIN1LO89O.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-5RG439ASNF32IJ4YMMMW6MPLG.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-94OERA6JCR8B3HBP5GL5R6DRS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-4KVTFYPHY7WMMB127ISV1TQF6.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-DF3KOWP6TXJHVT0P5GX4IAYB6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_limits-8LKH2QF89KHKT1XHR5ZGT0KM1.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_limits-86J3WR1DECH0AJ98T6UAMIIHP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-8WKOMMMPHT6CCYYAH5JKXMXHO.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-F47UKVXEIASA9HATLA42BNN99.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-EAKBZFPCNMH45M3LNE3MPFNOZ.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-5TGQWPUSVGIAJ613IYYX8Z3YD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-8AKQLEGI8RX9KC3BD1HGXZVTB.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-7TY3HVIYNLF9L4C766F61P35M.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stddef-D62S1GABZ8IBGSWOWHMBEOKMI.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stddef-D2CIQ6I8CD2U55W60M0GBBG2R.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdint-I6D1ZR4J76Q4QHMQIMU4B5D5.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_stdint-7U0IKV6LHQTT8QC2336I2PGJH.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-4RVPSFTU6G11VTGYMB33LKR2X.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-C90WH5E8QQOCSSSE3EW97DIXN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-EL16KT4IR71O9S1P19WM40IA2.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-9QM4Y45EGP5VN7O4E87EA2BB1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-3U07JX4L25LFA1SL2VB22Q3ZB.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-39H8VCGA3KDYSK4GR4UYVCRYJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-B0G63VQU486ELMZJLU6VKTOC9.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-3PFYLN36B88AED8JYK5M4I2IV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-BI7CB9SGHNNK9BMJSAWZ3SKS1.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-62B3HA243FOB0EX96CB9FMFQ8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/launch-F0JYZXFK2NHUDHFC8MSBD2ZIF.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/launch-1Q1NCU4M2B3A2KA8FVU5RHB4Y.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/libDER-A39AP3S699KLJHPGL4UCGH0P5.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/libDER-A2BVA9LJ4EWYXQ8BX4VJM21UZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/libkern-4EO12Q1R7Q04Q11Q18EPTHY98.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/libkern-1WL39WZE9UH9CQMT9E1WFUKGB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/os-1G70KWH8GVHE5NOCIBNMX210V.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/os-DZJAW5Y4TFQQPAHHOB2U4CKKN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/os_object-5GBRXH707Y1MJUK7IL737YWM6.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/os_object-8ZGXQ60Q5QR4YHA59XFCZKEKJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/os_workgroup-CJHSU5EYPX8CLC3FC1YHSA8R1.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/os_workgroup-ZLLZAG6P8XHT1JXYB5KM62HL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ptrauth-9H53MPR8LY2FL33AFGS1H0ZLJ.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ptrauth-BVV60YUYOB9U2ESZPJ9RJN5BI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ptrcheck-4KIXGC8X5IASK2ZGAF1PIBL9B.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/ptrcheck-7D7492ZEJ6Y6VWUDV1QHB041A.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/simd-VBJEJFL9HFQ9RFUBCRESFJ0J.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/simd-BT38CVJWD2B0QJJEN4QFKU87Q.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/c_standard_library.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/string_h-935TZ560K8DRV53VK3XXU9NGS.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/string_h-3EE4IEPPZ86FQVC4PXQ3XLA1Z.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "string_h"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/user\/Desktop\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/sys_types-3EAUZMXGAJ0V0CPVBSNGXH416.pcm",
+    "clangModulePath" : "\/Users\/user\/Documents\/GitHub\/MouseForge\/build\/release\/derived\/SDKExplicitPrecompiledModules\/sys_types-34UXNQ8DYCT4GC45A14TZUQVT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

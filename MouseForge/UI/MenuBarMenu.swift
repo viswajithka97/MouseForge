@@ -43,9 +43,23 @@ struct MenuBarMenu: View {
         Divider()
 
         Button("Quit MouseForge") {
-            NSApp.terminate(nil)
+            confirmQuit()
         }
         .keyboardShortcut("q")
+    }
+
+    /// Quitting turns every customization off, which surprises people who
+    /// expect it to keep working in the background, so ask first.
+    private func confirmQuit() {
+        let alert = NSAlert()
+        alert.messageText = "Quit MouseForge?"
+        alert.informativeText = "Your buttons, gestures, scrolling, and other customizations only work while MouseForge is running. To hide the window, just close it; MouseForge keeps working from the menu bar."
+        alert.addButton(withTitle: "Keep Running")
+        alert.addButton(withTitle: "Quit")
+        NSApp.activate(ignoringOtherApps: true)
+        if alert.runModal() == .alertSecondButtonReturn {
+            AppDelegate.quit()
+        }
     }
 
     private var statusText: String {

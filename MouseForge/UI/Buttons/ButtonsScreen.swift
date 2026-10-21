@@ -105,12 +105,31 @@ struct ButtonsScreen: View {
                         .accessibilityLabel(MouseButtons.name(button))
                         .accessibilityValue(describe(button))
                     }
+                    if devices.hasHorizontalScroll {
+                        Button(action: openThumbWheel) {
+                            Label("Horizontal Scroll", systemImage: "arrow.left.and.right")
+                        }
+                        .buttonStyle(.bordered)
+                        .help("Tilt or thumb wheel: scroll sideways, or give left and right their own actions")
+                    }
                 }
             }
-            Text("Extra buttons (6 and up) appear here after you press them once; Logitech controls such as the gesture button appear when the mouse is connected.")
+            Text(detectionSummary)
                 .font(.caption)
                 .foregroundStyle(.secondary)
         }
+    }
+
+    private var detectionSummary: String {
+        let hint = "Any other button appears here the first time you press it."
+        guard let mouse = devices.mice.max(by: { ($0.buttonCount ?? 0) < ($1.buttonCount ?? 0) }) else {
+            return "No mouse detected. " + hint
+        }
+        var parts: [String] = []
+        if let count = mouse.buttonCount { parts.append("\(count) buttons") }
+        if mouse.hasHorizontalScroll { parts.append("horizontal scroll") }
+        let found = parts.isEmpty ? "" : " – " + parts.joined(separator: ", ")
+        return "Detected \(mouse.name)\(found). " + hint
     }
 
     private var legend: some View {

@@ -1,12 +1,12 @@
 {
-  "/Users/user/Desktop/MouseForge/MouseForge/Actions/ActionLibrary.swift" : {
-    "abi-baseline-json" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.abi.json",
-    "const-values" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.swiftconstvalues",
-    "dependencies" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.d",
-    "diagnostics" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.dia",
-    "objc-header" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-Swift.h",
-    "swiftdoc" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.swiftdoc",
-    "swiftmodule" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.swiftmodule",
-    "swiftsourceinfo" : "/Users/user/Desktop/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.swiftsourceinfo"
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Actions/ActionLibrary.swift" : {
+    "abi-baseline-json" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.abi.json",
+    "const-values" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.d",
+    "diagnostics" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.dia",
+    "objc-header" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-Swift.h",
+    "swiftdoc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.swiftdoc",
+    "swiftmodule" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.swiftmodule",
+    "swiftsourceinfo" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge.swiftsourceinfo"
   }
 }

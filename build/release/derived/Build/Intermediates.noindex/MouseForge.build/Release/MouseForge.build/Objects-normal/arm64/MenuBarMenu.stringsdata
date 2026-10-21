@@ -1,5 +1,5 @@
 {
-  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/MenuBarMenu.swift",
+  "source": "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/MenuBarMenu.swift",
   "tables": {
     "Localizable": [
       {
@@ -71,7 +71,7 @@
         "key": "%@ – %@%@",
         "location": {
           "startingColumn": 19,
-          "startingLine": 66
+          "startingLine": 80
         }
       }
     ]

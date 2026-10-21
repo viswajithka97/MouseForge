@@ -1,0 +1,366 @@
+{
+  "" : {
+    "const-values" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.swiftconstvalues",
+    "dependencies" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.d",
+    "diagnostics" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.dia",
+    "emit-module-dependencies" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary-emit-module.dia",
+    "pch" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForge-primary.swiftdeps"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Actions/ActionLibrary.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionLibrary.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionLibrary.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionLibrary.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Actions/MouseAction.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseAction.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseAction.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseAction.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Actions/SystemControls.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SystemControls.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SystemControls.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SystemControls.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/App/AppState.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppState.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppState.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppState.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/App/LoginItem.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LoginItem.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LoginItem.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LoginItem.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/App/MouseForgeApp.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForgeApp.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForgeApp.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseForgeApp.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Debug/DebugSnapshots.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DebugSnapshots.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DebugSnapshots.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DebugSnapshots.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Devices/DeviceManager.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DeviceManager.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DeviceManager.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DeviceManager.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Devices/IOHIDTransport.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/IOHIDTransport.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/IOHIDTransport.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/IOHIDTransport.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/ActivityLog.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActivityLog.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActivityLog.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActivityLog.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/EventTapEngine.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/EventTapEngine.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/EventTapEngine.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/EventTapEngine.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/GestureRecognizer.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureRecognizer.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureRecognizer.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureRecognizer.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/InputEventLog.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/InputEventLog.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/InputEventLog.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/InputEventLog.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/RemapConfig.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RemapConfig.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RemapConfig.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RemapConfig.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/SyntheticEvents.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SyntheticEvents.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SyntheticEvents.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SyntheticEvents.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Engine/TriggerDetector.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TriggerDetector.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TriggerDetector.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TriggerDetector.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Logitech/HIDPP.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPP.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPP.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPP.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Logitech/HIDPPChannel.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPPChannel.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPPChannel.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPPChannel.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Logitech/HIDPPDevice.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPPDevice.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPPDevice.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/HIDPPDevice.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Logitech/LogitechDevice.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechDevice.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechDevice.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechDevice.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Logitech/LogitechIntegration.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechIntegration.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechIntegration.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechIntegration.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/ActionConfig.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionConfig.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionConfig.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionConfig.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/AppPresets.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppPresets.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppPresets.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppPresets.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/AppSettings.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppSettings.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppSettings.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppSettings.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/GesturePresets.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GesturePresets.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GesturePresets.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GesturePresets.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/KeyCombo.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/KeyCombo.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/KeyCombo.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/KeyCombo.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/ModifierSet.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ModifierSet.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ModifierSet.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ModifierSet.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/Profile.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Profile.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Profile.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Profile.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/Ring.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Ring.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Ring.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Ring.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/ScrollSettings.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollSettings.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollSettings.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollSettings.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/SmartAction.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartAction.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartAction.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartAction.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Model/Trigger.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Trigger.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Trigger.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/Trigger.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Permissions/PermissionsManager.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PermissionsManager.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PermissionsManager.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PermissionsManager.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Pointer/PointerEngine.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PointerEngine.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PointerEngine.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PointerEngine.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Profiles/AppWatcher.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppWatcher.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppWatcher.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppWatcher.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Profiles/ProfileManager.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ProfileManager.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ProfileManager.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ProfileManager.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Scrolling/ScrollConflicts.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollConflicts.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollConflicts.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollConflicts.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Scrolling/ScrollEngine.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollEngine.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollEngine.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollEngine.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Scrolling/ScrollMath.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollMath.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollMath.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollMath.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/Settings/SettingsStore.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SettingsStore.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SettingsStore.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SettingsStore.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/SmartActions/SmartActionRunner.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartActionRunner.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartActionRunner.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartActionRunner.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/ActionChooser.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionChooser.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionChooser.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionChooser.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/ButtonSidePanel.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ButtonSidePanel.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ButtonSidePanel.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ButtonSidePanel.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/ButtonsScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ButtonsScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ButtonsScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ButtonsScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/GestureEditor.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureEditor.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureEditor.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureEditor.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/MouseIllustration.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseIllustration.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseIllustration.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MouseIllustration.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/ShortcutRecorder.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ShortcutRecorder.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ShortcutRecorder.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ShortcutRecorder.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/TriggerEditor.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TriggerEditor.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TriggerEditor.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TriggerEditor.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/EventLogView.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/EventLogView.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/EventLogView.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/EventLogView.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/GestureHintHUD.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureHintHUD.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureHintHUD.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GestureHintHUD.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/MenuBarMenu.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MenuBarMenu.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MenuBarMenu.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/MenuBarMenu.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/OnboardingView.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/OnboardingView.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/OnboardingView.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/OnboardingView.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Ring/ActionsRingController.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionsRingController.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionsRingController.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionsRingController.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Ring/ActionsRingScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionsRingScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionsRingScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ActionsRingScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Ring/RingItemEditor.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RingItemEditor.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RingItemEditor.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RingItemEditor.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Ring/RingView.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RingView.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RingView.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/RingView.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/AppProfilesScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppProfilesScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppProfilesScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppProfilesScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/AppSelectorBar.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppSelectorBar.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppSelectorBar.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/AppSelectorBar.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/DevicesScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DevicesScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DevicesScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/DevicesScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/GeneralScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GeneralScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GeneralScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GeneralScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/GesturesScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GesturesScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GesturesScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GesturesScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/LogitechScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/LogitechScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/ModifierToggles.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ModifierToggles.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ModifierToggles.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ModifierToggles.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/PointerScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PointerScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PointerScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/PointerScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/ScrollingScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollingScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollingScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/ScrollingScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/SettingsView.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SettingsView.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Settings/SmartActionsScreen.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartActionsScreen.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartActionsScreen.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/SmartActionsScreen.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/StatusHUD.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/StatusHUD.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/StatusHUD.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/StatusHUD.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/TestAreaView.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TestAreaView.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TestAreaView.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/TestAreaView.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/WindowManager.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/WindowManager.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/WindowManager.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/WindowManager.o"
+  },
+  "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/user/Documents/GitHub/MouseForge/build/release/derived/Build/Intermediates.noindex/MouseForge.build/Release/MouseForge.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  }
+}

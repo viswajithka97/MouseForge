@@ -109,6 +109,6 @@ final class PermissionsManager: ObservableObject {
         // Wait for this process to exit, then reopen the app.
         task.arguments = ["-c", "while kill -0 \(ProcessInfo.processInfo.processIdentifier) 2>/dev/null; do sleep 0.2; done; /usr/bin/open \"\(path)\""]
         try? task.run()
-        NSApp.terminate(nil)
+        AppDelegate.quit()
     }
 }

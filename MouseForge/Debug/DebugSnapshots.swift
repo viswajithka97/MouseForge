@@ -44,10 +44,10 @@ enum DebugSnapshots {
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.6) {
                     let panels = NSApp.windows.filter { $0 is NSPanel && $0.isVisible }
                     save(panels.last?.contentView, to: "\(dir)/ring.png")
-                    NSApp.terminate(nil)
+                    AppDelegate.quit()
                 }
             } else {
-                NSApp.terminate(nil)
+                AppDelegate.quit()
             }
         }
     }

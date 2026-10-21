@@ -51,7 +51,7 @@ final class AppState: ObservableObject {
             .filter { $0.isDivertable && !$0.isStandardButton }
             .map { LogitechButtons.buttonNumber(for: $0.cid) }
         let bound = LogitechIntegration.boundControls(in: store.settings).map(LogitechButtons.buttonNumber(for:))
-        return store.configurableButtons + Array(Set(logitech + bound)).sorted()
+        return store.configurableButtons(hardwareButtons: devices.detectedButtonCount) + Array(Set(logitech + bound)).sorted()
     }
 
     /// Remapping on/off (menu toggle and kill switch). Saved in settings.

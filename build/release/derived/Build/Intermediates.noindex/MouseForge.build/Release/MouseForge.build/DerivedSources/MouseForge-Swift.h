@@ -372,9 +372,12 @@ extern "C" {
 #if defined(__OBJC__)
 
 @class NSNotification;
+@class NSApplication;
 SWIFT_CLASS("_TtC10MouseForge11AppDelegate")
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 - (void)applicationDidFinishLaunching:(NSNotification * _Nonnull)notification;
+- (NSApplicationTerminateReply)applicationShouldTerminate:(NSApplication * _Nonnull)sender SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)applicationShouldTerminateAfterLastWindowClosed:(NSApplication * _Nonnull)sender SWIFT_WARN_UNUSED_RESULT;
 - (void)applicationWillTerminate:(NSNotification * _Nonnull)notification;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -761,9 +764,12 @@ extern "C" {
 #if defined(__OBJC__)
 
 @class NSNotification;
+@class NSApplication;
 SWIFT_CLASS("_TtC10MouseForge11AppDelegate")
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 - (void)applicationDidFinishLaunching:(NSNotification * _Nonnull)notification;
+- (NSApplicationTerminateReply)applicationShouldTerminate:(NSApplication * _Nonnull)sender SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)applicationShouldTerminateAfterLastWindowClosed:(NSApplication * _Nonnull)sender SWIFT_WARN_UNUSED_RESULT;
 - (void)applicationWillTerminate:(NSNotification * _Nonnull)notification;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end

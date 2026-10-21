@@ -268,14 +268,14 @@ final class SettingsStore: ObservableObject {
 
     // MARK: - Buttons
 
-    /// Buttons that can be configured: middle, back, forward, extra buttons
-    /// seen so far, Logitech controls MouseForge can divert, and left/right
-    /// when unlocked.
-    var configurableButtons: [MouseButtonNumber] {
-        var buttons = settings.general.allowPrimaryButtonRemap ? [1, 2] : []
-        buttons += [3, 4, 5]
-        buttons += settings.knownExtraButtons.filter { $0 > 5 }
-        return buttons
+    /// Buttons that can be configured: the ones the connected mice declare
+    /// (middle, back, forward, … up to `hardwareButtons`; 3–5 when unknown),
+    /// extra buttons seen so far, and left/right when unlocked.
+    func configurableButtons(hardwareButtons: Int?) -> [MouseButtonNumber] {
+        var buttons: Set<MouseButtonNumber> = settings.general.allowPrimaryButtonRemap ? [1, 2] : []
+        buttons.formUnion(3...max(3, hardwareButtons ?? 5))
+        buttons.formUnion(settings.knownExtraButtons.filter { $0 > 2 })
+        return buttons.sorted()
     }
 
     /// Buttons with at least one gesture direction (own or inherited).

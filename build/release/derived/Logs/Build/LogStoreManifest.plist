@@ -6,7 +6,7 @@
 	<integer>13</integer>
 	<key>logs</key>
 	<dict>
-		<key>0C95BA7F-E2FC-4C45-96D7-0AAB94272341</key>
+		<key>B58C99F0-BA73-4C00-8660-9B7822DC7DD7</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0C95BA7F-E2FC-4C45-96D7-0AAB94272341.xcactivitylog</string>
+			<string>B58C99F0-BA73-4C00-8660-9B7822DC7DD7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Building project MouseForge with scheme MouseForge and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>813952291.46511304</real>
+			<real>814262476.16502905</real>
 			<key>timeStoppedRecording</key>
-			<real>813952323.84702301</real>
+			<real>814262617.33452404</real>
 			<key>title</key>
 			<string>Building project MouseForge with scheme MouseForge and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>0C95BA7F-E2FC-4C45-96D7-0AAB94272341</string>
+			<string>B58C99F0-BA73-4C00-8660-9B7822DC7DD7</string>
 		</dict>
 	</dict>
 </dict>

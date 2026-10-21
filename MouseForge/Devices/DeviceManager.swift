@@ -24,12 +24,21 @@ final class DeviceManager: ObservableObject {
         let manufacturer: String
         let transport: String
         let isLogitech: Bool
+        /// Buttons declared in the mouse's HID descriptor; nil when the
+        /// descriptor can't be trusted (see `capabilities(of:)`).
+        var buttonCount: Int?
+        /// Has a tilt wheel or thumb wheel (horizontal scrolling).
+        var hasHorizontalScroll = false
     }
 
     @Published private(set) var logitechDevices: [LogitechDevice] = []
     @Published private(set) var mice: [Mouse] = []
     /// A Logitech interface couldn't be opened for lack of permission.
     @Published private(set) var needsInputMonitoring = false
+
+    /// Most buttons on any connected mouse, or nil if unknown.
+    var detectedButtonCount: Int? { mice.compactMap(\.buttonCount).max() }
+    var hasHorizontalScroll: Bool { mice.contains(where: \.hasHorizontalScroll) }
 
     /// Called when a diverted Logitech control changes, e.g. the gesture
     /// button (set by LogitechIntegration).
@@ -134,8 +143,8 @@ final class DeviceManager: ObservableObject {
     fileprivate func updateMiceList() {
         guard let miceManager else { return }
         let devices = (IOHIDManagerCopyDevices(miceManager) as? Set<IOHIDDevice>) ?? []
-        var list: [Mouse] = []
-        var seen = Set<String>()
+        // One mouse can expose several HID interfaces; merge them by key.
+        var byKey: [String: Mouse] = [:]
         for device in devices {
             func string(_ key: String) -> String? { IOHIDDeviceGetProperty(device, key as CFString) as? String }
             func int(_ key: String) -> Int { (IOHIDDeviceGetProperty(device, key as CFString) as? NSNumber)?.intValue ?? 0 }
@@ -146,18 +155,53 @@ final class DeviceManager: ObservableObject {
             // Skip trackpads; they aren't mice.
             if name.localizedCaseInsensitiveContains("trackpad") { continue }
             let key = "\(vendor)-\(product)-\(name)-\(transport)"
-            guard seen.insert(key).inserted else { continue }
-            list.append(Mouse(
+            let isLogitech = vendor == Self.logitechVendorID
+            let (buttons, horizontal) = Self.capabilities(of: device, isLogitech: isLogitech)
+            var mouse = byKey[key] ?? Mouse(
                 id: key, name: name,
                 manufacturer: string(kIOHIDManufacturerKey) ?? "",
                 transport: transport,
-                isLogitech: vendor == Self.logitechVendorID
-            ))
+                isLogitech: isLogitech
+            )
+            if let buttons { mouse.buttonCount = max(mouse.buttonCount ?? 0, buttons) }
+            mouse.hasHorizontalScroll = mouse.hasHorizontalScroll || horizontal
+            byKey[key] = mouse
         }
+        var list = Array(byKey.values)
         list.sort { $0.name < $1.name }
         if list != mice { mice = list }
         // A mouse came or went: custom pointer settings need re-applying.
         AppState.shared.pointer.reapply()
+    }
+
+    /// Reads the button count and horizontal wheel from the HID report
+    /// descriptor (no need to open the device). Logitech receivers declare
+    /// 16 buttons whatever is paired, and their extra controls come over
+    /// HID++ instead, so only the standard five are counted for them. Other
+    /// descriptors claiming more than 8 are usually generic templates, so
+    /// the count is treated as unknown and buttons appear when pressed.
+    nonisolated static func capabilities(of device: IOHIDDevice, isLogitech: Bool) -> (buttons: Int?, horizontalScroll: Bool) {
+        guard let elements = IOHIDDeviceCopyMatchingElements(device, nil, IOOptionBits(kIOHIDOptionsTypeNone)) as? [IOHIDElement] else {
+            return (nil, false)
+        }
+        var buttons = 0
+        var horizontal = false
+        for element in elements {
+            let page = Int(IOHIDElementGetUsagePage(element))
+            let usage = Int(IOHIDElementGetUsage(element))
+            if page == kHIDPage_Button {
+                buttons = max(buttons, usage)
+            } else if page == kHIDPage_Consumer, usage == kHIDUsage_Csmr_ACPan {
+                horizontal = true
+            }
+        }
+        return (reliableButtonCount(buttons, isLogitech: isLogitech), horizontal)
+    }
+
+    nonisolated static func reliableButtonCount(_ declared: Int, isLogitech: Bool) -> Int? {
+        guard declared > 0 else { return nil }
+        if isLogitech { return min(declared, 5) }
+        return declared <= 8 ? declared : nil
     }
 
     // MARK: - Logitech interfaces

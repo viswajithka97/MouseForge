@@ -77,6 +77,29 @@ final class ProfileInheritanceTests: XCTestCase {
         XCTAssertEqual(store.binding(for: back4, in: "com.apple.Safari").action, ActionConfig(.back))
         XCTAssertEqual(store.binding(for: back4, in: "com.apple.Safari").source, .global)
     }
+
+    @MainActor
+    func testConfigurableButtonsFollowDetectedMouse() {
+        let url = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString + ".json")
+        defer { try? FileManager.default.removeItem(at: url) }
+        let store = SettingsStore(fileURL: url)
+
+        XCTAssertEqual(store.configurableButtons(hardwareButtons: nil), [3, 4, 5])
+        XCTAssertEqual(store.configurableButtons(hardwareButtons: 3), [3])
+        XCTAssertEqual(store.configurableButtons(hardwareButtons: 7), [3, 4, 5, 6, 7])
+        store.addKnownExtraButton(9)
+        XCTAssertEqual(store.configurableButtons(hardwareButtons: 5), [3, 4, 5, 9])
+        store.settings.general.allowPrimaryButtonRemap = true
+        XCTAssertEqual(store.configurableButtons(hardwareButtons: 3), [1, 2, 3, 9])
+    }
+
+    func testDescriptorButtonCountHeuristics() {
+        XCTAssertEqual(DeviceManager.reliableButtonCount(5, isLogitech: false), 5)
+        XCTAssertEqual(DeviceManager.reliableButtonCount(8, isLogitech: false), 8)
+        XCTAssertNil(DeviceManager.reliableButtonCount(16, isLogitech: false))
+        XCTAssertNil(DeviceManager.reliableButtonCount(0, isLogitech: false))
+        XCTAssertEqual(DeviceManager.reliableButtonCount(16, isLogitech: true), 5)
+    }
 }
 
 final class SettingsSerializationTests: XCTestCase {

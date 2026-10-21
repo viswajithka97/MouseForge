@@ -22,6 +22,16 @@ struct MouseForgeApp: App {
 }
 
 final class AppDelegate: NSObject, NSApplicationDelegate {
+    /// Set by `quit()`. Remapping only works while MouseForge runs, so a
+    /// stray ⌘Q in the Settings window must not quit the whole app.
+    @MainActor private static var quitConfirmed = false
+
+    /// Really quits: the menu's Quit item, permission relaunch, debug runs.
+    @MainActor static func quit() {
+        quitConfirmed = true
+        NSApp.terminate(nil)
+    }
+
     /// Unit tests launch the app as their host; don't start the event tap
     /// or show windows then.
     private var isRunningTests: Bool {
@@ -36,6 +46,24 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
             DebugSnapshots.runIfRequested()
             #endif
         }
+    }
+
+    func applicationShouldTerminate(_ sender: NSApplication) -> NSApplication.TerminateReply {
+        MainActor.assumeIsolated {
+            // Logout, restart, and AppleScript quits arrive as an Apple
+            // event; those always quit. A bare ⌘Q only closes the windows.
+            if Self.quitConfirmed || NSAppleEventManager.shared().currentAppleEvent != nil {
+                return .terminateNow
+            }
+            for window in NSApp.windows where window.isVisible && window.styleMask.contains(.titled) {
+                window.close()
+            }
+            return .terminateCancel
+        }
+    }
+
+    func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
+        false
     }
 
     func applicationWillTerminate(_ notification: Notification) {

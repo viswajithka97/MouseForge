@@ -1,5 +1,5 @@
 {
-  "source": "/Users/user/Desktop/MouseForge/MouseForge/UI/Buttons/ButtonsScreen.swift",
+  "source": "/Users/user/Documents/GitHub/MouseForge/MouseForge/UI/Buttons/ButtonsScreen.swift",
   "tables": {
     "Localizable": [
       {
@@ -28,9 +28,17 @@
       },
       {
         "comment": "",
-        "key": "Extra buttons (6 and up) appear here after you press them once; Logitech controls such as the gesture button appear when the mouse is connected.",
+        "key": "Tilt or thumb wheel: scroll sideways, or give left and right their own actions",
         "location": {
-          "startingColumn": 18,
+          "startingColumn": 31,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Horizontal Scroll",
+        "location": {
+          "startingColumn": 35,
           "startingLine": 110
         }
       }
